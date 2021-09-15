@@ -16,7 +16,7 @@ Greetings, Earthling! Welcome to The Hitchhiker's Guide to Python.
 **This is a living, breathing guide.**  If you'd like to contribute,
 `fork us on GitHub <https://github.com/realpython/python-guide>`_!
 
-This handcrafted guide exists to provide both novice and expert Python
+This handcrafted guide exists to provide both novice and expert Python 3
 developers a best practice handbook for the installation, configuration, and
 usage of Python on a daily basis.
 
