@@ -1,7 +1,7 @@
 Hitchhiker's Guide to Python
 ============================
 
-**Python Best Practices Guidebook**
+**Python Best Practices Guidebook by Sumit Majumder**
 
 → Read the free guide at: `docs.python-guide.org <https://docs.python-guide.org>`_
 
